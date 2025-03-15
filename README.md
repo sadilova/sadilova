@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Annie and my background is in neuroscience and biochemistry, however I am looking to expand my coding skills!
+
 <!--
 **sadilova/sadilova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
